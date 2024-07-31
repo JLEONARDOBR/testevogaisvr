@@ -1,0 +1,19 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_1CF225F1_0A3A_2A9E_4175_F11C902FD0FF.label = Home
+
+### Video
+videolevel_13D10800_0A56_EAC1_4197_C90C78DF0F00.posterURL = media/video_185D1D0C_0A55_EAC1_419E_E91C226BAF2B_poster_pt.jpg
+videolevel_13D10800_0A56_EAC1_4197_C90C78DF0F00.url = media/video_185D1D0C_0A55_EAC1_419E_E91C226BAF2B_pt.mp4
+
+### Video Subtitles
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Vogais
